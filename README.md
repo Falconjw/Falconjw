@@ -1,6 +1,6 @@
 ## EAE, eu sou o Falcon
 
-- 🔭 Estudando Java Script, CSS é HTML
+- 🔭 Estudando JavaScript
 
 <div align="center">
   <a href="https://github.com/Falconjw">
